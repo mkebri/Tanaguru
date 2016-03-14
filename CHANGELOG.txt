@@ -1,4 +1,16 @@
 --------------------------
+Tanaguru 3.2.0, 2015-03-14
+--------------------------
+
+Features :
+- UI improvments
+- Add new functionalities [disable domain restriction, filters...]
+- Add Implementation of Rgaa3 rules 
+
+Bugs:
+- [#129](https://github.com/Tanaguru/Tanaguru/issues/129) : Audit manual: fix filter on manual audit
+
+--------------------------
 Tanaguru 3.1.0, 2015-07-02
 --------------------------
 
